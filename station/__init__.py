@@ -6,3 +6,4 @@ from .material import StationMaterial as StationMaterial
 from .receipts import Receipt as Receipt
 from .receipts import ReceiptLine as ReceiptLine
 from .receipts import ReceiptStore as ReceiptStore
+from .broadcast_accept import accept_broadcast as accept_broadcast
